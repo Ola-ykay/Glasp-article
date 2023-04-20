@@ -1,4 +1,4 @@
-<h1 style='font-size: 3rem; font-weight: bold'>Unlock the Power of Web Browsing with Glasp</h1>
+<h1 style='font-size: 3rem; font-weight: bold'>Maximize your Web Browsing Experience with Glasp</h1>
 
 ![Glasp](./Images/glasp.png)
 
@@ -22,7 +22,7 @@ Photo by [Glasp](https://www.glasp.co)
 
 ## **Introduction**  
 
-  Have you ever found yourself reading an online article and you wish you could hightlight and save some interesting points for reference? Or maybe you have wanted to share a quote to your social media account pages but didn't want to copy and paste? That's where you need Glasp. Glasp is a free browser extension that allows you to highlight text on a website, add notes, save those hightlights for later and easily share them with friends and collegues.  
+  Have you ever found yourself reading an online article and wishing you could hightlight and save some interesting points for reference? Or maybe you have wanted to share a quote to your social media account pages but didn't want to copy and paste? That's where you need Glasp. Glasp is a free browser extension that allows you to highlight text on a website, add notes, save those hightlights for later and easily share them with friends and collegues.  
   In this article, we will delve deeper into what Glasp is, why you need Glasp,and much more. Whether you're a writer, or a reader, Glasp could be the tool you never knew you needed.
 <br></br>
 
@@ -30,8 +30,8 @@ Photo by [Glasp](https://www.glasp.co)
   
    Glasp, an acronymn for Greatest Legacy Accumulated as Shared Proof is a free [Chrome Extension](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik) that lets you quickly capture online content with colored highlighting options, which are then automatically curated to your Glasp homepage. These highlights can then be tagged, searched for, linked to, and shared on a variety of other platforms, including Twitter, Teams, and Slack.
 
-   According to [Glasp website](https://glasp.co/about), It is a
-    social web highlighter that people can use to highlight and organize quotes and ideas from the web without switching back and forth between screens, and access other like-minded people’s learning at the same time. Glasp started working on [June 2021](https://glasp.co/about).
+   According to the [Glasp website](https://glasp.co/about), It is a
+    social web highlighter that people can use to highlight and organize quotes and ideas from the web without switching back and forth between screens, and access other like-minded people’s learning at the same time. Glasp started working on June, 2021.
 <br></br>
 
 ## **Why do you need Glasp?**
@@ -44,9 +44,9 @@ Photo by [Glasp](https://www.glasp.co)
   <br></br>
 
 ## **Key Features of Glasp**
-  For you to unlock the power of web browsing with Glasp, it is important to be know some of its features.
+  For you to unlock the power of web browsing with Glasp, it is important to know some features.
 
-1. **Browser Extension** : Glasp is a available as a browser extension for Chrome, Firefox, Brave etc.
+1. **Browser Extension** : Glasp is available as a browser extension for Chrome, Firefox, Brave, Edge and Safari.
 2. **Hightlighting** : Users can highlight text on web pages by selecting the text and clicking the highlighter tool.
 3.  **Sharing** : Users can share hightlighted pages with friends via email and social media.
 4.   **Annotation** : Users can add notes and comments to their hightlights, making it easier to fetch and remember the where and why they highlighted that particular sentence(s).
@@ -59,7 +59,7 @@ Photo by [Glasp](https://www.glasp.co)
 
    ## **How to setup Glasp on your desktop**
    Here are the simple steps to take to use Glasp on your Desktop using the Chrome browser:
-- Open your web browser and visit [Glasp website](https://glasp.co/).
+- Open your web browser and visit the [Glasp website](https://glasp.co/).
    
  - Click on the **sign up(beta)** button to create your Glasp account.
   
@@ -143,4 +143,4 @@ The explore menu helps to find content from the community and search for authors
 <br></br>
 
 ## **Conclusion**
- Glasp unlocks the power of web browsing by providing users with a simple yet powerful tool to highlight and save important information from any webpage. With Glasp, users can stay organized and make the most of the information available on the web, helping them become more productive and efficient in their online activities.
+ Glasp helps to maximize web browsing experience by providing users with a simple yet powerful tool to highlight and save important information from the webpage. With Glasp, users can stay organized and make the most of the information available on the web, helping them become more productive and efficient in their online activities.
